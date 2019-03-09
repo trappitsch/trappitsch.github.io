@@ -7,15 +7,19 @@ feature-img: "assets/img/mine/g68_cut_web.png"
 
 This is a list of peer reviewed articles. For my full publication record and updated statistics, please go to my [Google Scholar](https://scholar.google.com/citations?user=nuqrAOUAAAAJ&hl=en){:target="_blank"} page.
 
+<h3>2019</h3>
+
+- Jones S. W., Möller H., Fryer C. L., Fontes C. L, **Trappitsch R.**, Even W. P., Couture A., Mumpower M. R., and Safi-Harb S. (2019) *<sup>60</sup>Fe in core-collapse supernovae and prospects for X-ray and γ-ray detection in supernova remnants*, Monthly Notices of the Royal Astronomical Society, in press.  [<i class="ai ai-doi ai-1x theme-color"></i>](https://doi.org/10.1093/mnras/stz536){:target="_blank"}
+
 <h3>2018</h3>
 
- - **Trappitsch R.**, Savina M. R., and Isselhardt B. H. (2018) *Resonance Ionization of Titanium: High Useful Yield and New Autoionizing States* Journal of Analytical Atomic Spectrometry, accepted. [<i class="ai ai-doi ai-1x theme-color"></i>](https://doi.org/10.1039/C8JA00269J){:target="_blank"}
+ - **Trappitsch R.**, Savina M. R., and Isselhardt B. H. (2018) *Resonance Ionization of Titanium: High Useful Yield and New Autoionizing States*, Journal of Analytical Atomic Spectrometry, **33**:1962-1969. [<i class="ai ai-doi ai-1x theme-color"></i>](https://doi.org/10.1039/C8JA00269J){:target="_blank"}
 
- - Savina M. R., **Trappitsch R.**, and Isselhardt B. H. (2018) *Electronic excitation of uranium atoms sputtered from uranium metal and oxides* Spectrochimica Act Part B, **149**:214-221.[<i class="ai ai-doi ai-1x theme-color"></i>](https://doi.org/10.1016/j.sab.2018.08.003){:target="_blank"}
+ - Savina M. R., **Trappitsch R.**, and Isselhardt B. H. (2018) *Electronic excitation of uranium atoms sputtered from uranium metal and oxides*, Spectrochimica Act Part B, **149**:214-221.[<i class="ai ai-doi ai-1x theme-color"></i>](https://doi.org/10.1016/j.sab.2018.08.003){:target="_blank"}
 
- - Savina M. R., **Trappitsch R.**, and Isselhardt B. H. (2018) *New resonance ionization mass spectrometry scheme for improved uranium analysis* Analytical Chemistry, **90**(17):10551-10558. [<i class="ai ai-doi ai-1x theme-color"></i>](https://doi.org/10.1021/acs.analchem.8b02656){:target="_blank"}
+ - Savina M. R., **Trappitsch R.**, and Isselhardt B. H. (2018) *New resonance ionization mass spectrometry scheme for improved uranium analysis*, Analytical Chemistry, **90**(17):10551-10558. [<i class="ai ai-doi ai-1x theme-color"></i>](https://doi.org/10.1021/acs.analchem.8b02656){:target="_blank"}
 
- - Boehnke P., Bell E. A., Stephan T., **Trappitsch R.**, Keller C. B., Pardo O. S., Davis A. M., Harrison T. M., and Pellin M. J. (2018) *Potassic, high-silica Hadean crust* Proceedings of the National Academy of Sciences, **115**(25):6353-6356. [<i class="ai ai-doi ai-1x theme-color"></i>](https://doi.org/10.1073/pnas.1720880115){:target="_blank"}
+ - Boehnke P., Bell E. A., Stephan T., **Trappitsch R.**, Keller C. B., Pardo O. S., Davis A. M., Harrison T. M., and Pellin M. J. (2018) *Potassic, high-silica Hadean crust*, Proceedings of the National Academy of Sciences, **115**(25):6353-6356. [<i class="ai ai-doi ai-1x theme-color"></i>](https://doi.org/10.1073/pnas.1720880115){:target="_blank"}
 
  - Cassata W. S., Cohen B. E., Mark D. F., **Trappitsch R.**, Crow C. A., Wimpenny J., Lee M. R., and Smith C. L. (2018) *Chronology of martian breccia NWA 7034 and the formation of the martian crustal dichotomy*, Science Advances **4**:eaap8306 (11pp). [<i class="ai ai-doi ai-1x theme-color"></i>](https://doi.org/10.1126/sciadv.aap8306){:target="_blank"}
 

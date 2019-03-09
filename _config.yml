@@ -21,7 +21,7 @@ theme_settings:
   # <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
   header_feature_image: assets/img/nasa/hubble_deep_field_cut.jpg
   footer_text: > 
-          Reto Trappitsch, 2018<br>Image Credit: NASA / Created using <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a><br>
+          Reto Trappitsch, 2019<br>Image Credit: NASA / Created using <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a><br>
           <a href="/disclaimer/">Disclaimer</a>
 
   # Icons
