@@ -9,13 +9,18 @@ This is a list of peer reviewed articles. For my full publication record and upd
 
 <h3>2019</h3>
 
-- Jones S. W., Möller H., Fryer C. L., Fontes C. L, **Trappitsch R.**, Even W. P., Couture A., Mumpower M. R., and Safi-Harb S. (2019) *<sup>60</sup>Fe in core-collapse supernovae and prospects for X-ray and γ-ray detection in supernova remnants*, Monthly Notices of the Royal Astronomical Society, in press.  [<i class="ai ai-doi ai-1x theme-color"></i>](https://doi.org/10.1093/mnras/stz536){:target="_blank"}
+- Stephan T., **Trappitsch R.**, Hoppe P., Davis A. M., Pellin M. J., and Pardo O. S. (2019) *Molybdenum Isotopes in Presolar Silicon Carbide Grains: Details of s-process Nucleosynthesis in Parent Stars and Implications for r- and p-processes* The Astrophysical Journal, **877**:101 (16pp). [<i class="ai ai-doi ai-1x theme-color"></i>](https://doi.org/10.3847/1538-4357/ab1c60){:target="_blank"}
+- Jones S. W., Möller H., Fryer C. L., Fontes C. L, **Trappitsch R.**, Even W. P., Couture A., Mumpower M. R., and Safi-Harb S. (2019) *<sup>60</sup>Fe in core-collapse supernovae and prospects for X-ray and γ-ray detection in supernova remnants*, Monthly Notices of the Royal Astronomical Society, **485**:4287-4310.  [<i class="ai ai-doi ai-1x theme-color"></i>](https://doi.org/10.1093/mnras/stz536){:target="_blank"}
+- Zingale M., Fryer C., Hungerford A., Safi-Harb S., **Trappitsch R.**, Fisher R., Calder A., and Shen K. (2019) **MMA SAG: Thermonuclear supernovae**, Astro2020: Decadal Survey on Astronomy and Astrophysics, Bulletin of the American Astronomical Society, **51**:259. [<i class="ai ai-doi ai-1x theme-color"></i>](https://baas.aas.org/wp-content/uploads/2019/05/259_zingale.pdf){:target="_blank"}
+- Fryer C., Burns E., Roming P., Couch S., Szczepanczyk M., Slane P., Tamborra I., and **Trappitsch R.** (2019) *Core-collapse supernova and multi-messenger astronomy*, Astro2020: Decadal Survey on Astronomy and Astrophysics, Bulletin of the American Astronomical Society, **51**122. [<i class="ai ai-doi ai-1x theme-color"></i>](https://baas.aas.org/wp-content/uploads/2019/05/122_fryer.pdf){:target="_blank"}
 
 <h3>2018</h3>
 
  - **Trappitsch R.**, Savina M. R., and Isselhardt B. H. (2018) *Resonance Ionization of Titanium: High Useful Yield and New Autoionizing States*, Journal of Analytical Atomic Spectrometry, **33**:1962-1969. [<i class="ai ai-doi ai-1x theme-color"></i>](https://doi.org/10.1039/C8JA00269J){:target="_blank"}
 
  - Savina M. R., **Trappitsch R.**, and Isselhardt B. H. (2018) *Electronic excitation of uranium atoms sputtered from uranium metal and oxides*, Spectrochimica Act Part B, **149**:214-221.[<i class="ai ai-doi ai-1x theme-color"></i>](https://doi.org/10.1016/j.sab.2018.08.003){:target="_blank"}
+
+ - Liu N., Gallino R., Cristallo S., Bisterzo S., Davis A. M., Trappitsch R., Nittler L. R. (2018) *New constraints on the major neutron source in low-mass AGB stars*, The Astrophysical Journal, **865**:112 (14pp). [<i class="ai ai-doi ai-1x theme-color"></i>](https://doi.org/10.3847/1538-4357/aad9f3){:target="_blank"}
 
  - Savina M. R., **Trappitsch R.**, and Isselhardt B. H. (2018) *New resonance ionization mass spectrometry scheme for improved uranium analysis*, Analytical Chemistry, **90**(17):10551-10558. [<i class="ai ai-doi ai-1x theme-color"></i>](https://doi.org/10.1021/acs.analchem.8b02656){:target="_blank"}
 
