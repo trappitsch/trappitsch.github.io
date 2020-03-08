@@ -1,0 +1,37 @@
+# Icons on the footer
+rss:         
+email_address: reto@brandeis.edu  # Full email address, e.g. "sam@example.com"
+behance:
+bitbucket:
+dribbble:
+facebook:
+flickr:
+gitlab:
+github: "trappitsch"
+instagram:
+keybase:
+linkedin:         # Full URLorcid:"0000-0002-1083-2965"   # Number
+orcid: "0000-0002-0924-236X"
+pinterest:
+reddit:
+soundcloud:
+stack_overflow:
+stack_exchange:   # Full URL
+steam:
+tumblr:
+twitter: "guille_rochelle" # "twitter username"
+vimeo:
+wordpress:
+youtube:          # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
+
+# Share button options
+share:
+  facebook:
+  twitter:
+  tumblr:
+  pinterest:
+  pocket:
+  reddit:
+  linkedin:
+  wordpress:
+  email: true

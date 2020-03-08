@@ -14,12 +14,14 @@ _development_tool/*
 .sass-cache/*
 *.css.map
 *.scssc
+.jekyll-cache
 
 # Theme Gem files
 Gemfile.lock
 *.gem
 .gems
 jekyll-theme-type-on-strap.gemspec
+type-on-strap.gemspec
 
 # Node js files
 **/node_modules/*
