@@ -1,9 +1,8 @@
 --- 
 layout: page
-title : Projects 
-permalink: /portfolio/
+title : Research 
 feature-img: "assets/img/nasa/earth_at_night_cut.jpg"
-hide: True
+permalink: /research/
 ---
 
 {% include portfolio.html %}

@@ -1,6 +1,10 @@
 # Idea files
 .idea/*
 
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
 # Mac files
 .DS_Store
 
