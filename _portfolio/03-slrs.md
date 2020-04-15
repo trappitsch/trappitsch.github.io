@@ -7,14 +7,14 @@ color: "#223b7a"
 
 # The composition of the solar nebula
 
-The solar system formed around 4.5 billion years ago, which is around 9 billion years after the formation of the Milky Way itself. This means that the average solar composition that the solar nebula stared with represents one datapoint in terms of galactic chemical evolution.
+The solar system formed around 4.5 billion years ago, which is around 9 billion years after the formation of the Milky Way itself. This means that the average solar composition that the solar nebula started with represents one datapoint in terms of galactic chemical evolution.
 
 The solar composition can be measured excellently by observing the sun as well as by analyzing primitive meteorites. Except for volatile species, e.g., hydrogen and the noble gases, the composition of these two sample sets agree very well with each other. However, there are some anomalies that can be found in meteorites, which are very indicative of the exact circumstances under which the solar system formed.
 
 # Short-lived radionuclides
 Some of the anomalies that can be found in primitive objects from the solar system are enhancement in certain isotopes due to the in situ radioactive decay of short-lived radionuclides (SLRs). Calcium aluminum-rich refractory inclusions (CAIs), which are fluffy looking phases in primitive meteorites, are some of the very first material that condensed in the solar nebula and are the ideal samples to look for such anomalies.
 
-## How to determine the abundance of SLRs in the ESS
+## How to determine the abundance of SLRs in the solar nebula
 
 If for example the short-lived <sup>60</sup>Fe was incorporated into a solid that condensed early on in the solar system we would be able to measure it today as an enhancement of <sup>60</sup>Ni since the original <sup>60</sup>Fe, which has a half-life of 2.6 Ma, would have all decayed to its stable daughter by now. The figure below shows how the presence of SLRs can be detected in a given sample.
 
@@ -34,7 +34,7 @@ One of the most prominent SLRs that has been shown to be present in the solar ne
 
 The presence of <sup>26</sup>Al in the solar system raises the quesion on where it came from. Since its half-life is only 717 ka it had to be produced just prior to solar system formation. The key to decipher where it came from comes from studying other SLRs that were also present in the solar nebula.
 
-## The curious case of <sup>60</sup>Fe in the early Solar System
+## The curious case of <sup>60</sup>Fe in the solar nebula
 
 One nuclide that can help us solve the question on where the <sup>26</sup>Al in the early solar system came from is <sup>60</sup>Fe. If <sup>60</sup>Fe is also present in the solar nebula it was likely produced and injected along with <sup>26</sup>Al. A large amount of <sup>60</sup>Fe in the early solar nebula, by which we mean a value of $$^{60}\textnormal{Fe}/^{56}\textnormal{Fe} > 5\times10^{-7}$$ would make it likely that a supernova that exploded just before the solar system produced and injected the two nucldies. A low value of $$^{60}\textnormal{Fe}/^{56}\textnormal{Fe} \sim 10^{-8}$$ would however indicate that no such supernova took place and that the <sup>60</sup>Fe does not need to be produced but is rather the galactic background value. 
 
